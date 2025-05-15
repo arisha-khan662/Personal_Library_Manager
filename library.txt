@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Captain Marvel",
+        "author": "J.K Rowling",
+        "year": "2020",
+        "genre": "Action,Thriller",
+        "read": true
+    }
+]
